@@ -9,7 +9,7 @@ I combine a rigorous background in **Applied Mathematics & Systems Programming**
 
 ### 🛠️ Core Tech Stack & Frameworks
 
-*   **Logic & Engineering:** React 19, Next.js (Turbopack), TypeScript, Vanilla JS ES6+, Node.js
+*   **Logic & Engineering:** React 19, Next.js (Turbopack), TypeScript, Vanilla JS ES6+, Node.js, Zustand State, NPM Package Manager
 *   **Layouts & Design Systems:** Native CSS Nesting, SASS/SCSS, BEM Methodology, Mobile Responsive Design
 *   **Creative Hardware Pipeline:** Blender 3D (Spatial modeling & custom layouts), Figma
 
